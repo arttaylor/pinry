@@ -1,7 +1,7 @@
 # ![Pinry](https://github.com/overshard/pinry/raw/master/logo.png)
 
- * [Pinry on BitBucket (Primary)](https://bitbucket.org/pinry/pinry)
- * [Pinry on GitHub (Mirror)](https://github.com/pinry/pinry)
+ * [Pinry on GitHub (Primary)](https://github.com/pinry/pinry)
+ * [Pinry on BitBucket (Mirror)](https://bitbucket.org/pinry/pinry)
 
 Pinry has moved! I would like to give a huge thank you to everyone for your
 support of Pinry and Pinry will continue to grow because of it. Pinry's official
